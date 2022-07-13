@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,KACE,WACF,CAEA,QACE,UACF,CAEA,SACE,iBACF","file":"main.e7a6c2a9.chunk.css","sourcesContent":["/* not empty */\n.box {\n  width: 400px;\n}\n\n.button {\n  width: 100%;\n}\n\n.wrapper {\n  text-align: center;\n}\n"]}
